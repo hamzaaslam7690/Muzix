@@ -1,1 +1,1 @@
-# Muzix
+Bitxmi Admin
